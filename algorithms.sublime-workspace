@@ -1,0 +1,670 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"sear",
+				"searchValue"
+			],
+			[
+				"Quic",
+				"QuickNavService"
+			],
+			[
+				"mea",
+				"measurements"
+			],
+			[
+				"result",
+				"resultGroupIndexes"
+			],
+			[
+				"inde",
+				"indexOf"
+			],
+			[
+				"group",
+				"groupIndexes"
+			],
+			[
+				"cri",
+				"CRITERIA"
+			],
+			[
+				"grup",
+				"groups"
+			],
+			[
+				"chec",
+				"checklistId"
+			],
+			[
+				"upda",
+				"updated_categories"
+			],
+			[
+				"UPDAT",
+				"updated_categories"
+			],
+			[
+				"passw",
+				"passwordCopy"
+			],
+			[
+				"toSave",
+				"toSaveOptions"
+			],
+			[
+				"file",
+				"filePath"
+			],
+			[
+				"con",
+				"controllers"
+			],
+			[
+				"std",
+				"stdout"
+			],
+			[
+				"border",
+				"border-color"
+			],
+			[
+				"re",
+				"require"
+			],
+			[
+				"for",
+				"forEach"
+			],
+			[
+				"res",
+				"result"
+			],
+			[
+				"insp",
+				"Inspection"
+			],
+			[
+				"is",
+				"isMobileRequest"
+			],
+			[
+				"inspec",
+				"inspectionIds"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "linear_search/sample.c",
+			"settings":
+			{
+				"buffer_size": 841,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "linear_search/sample.js",
+			"settings":
+			{
+				"buffer_size": 384,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "linear_search/sample.swift",
+			"settings":
+			{
+				"buffer_size": 24,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"contents": "\n{\n    \"cmd\": [\"node\", \"$file\", \"$file_base_name\"],\n    \"working_dir\": \"${project_path:${folder}}\",\n    \"selector\": \"*.js\"\n}",
+			"settings":
+			{
+				"buffer_size": 124,
+				"line_ending": "Unix"
+			}
+		}
+	],
+	"build_system": "Packages/C++/C++ Single File.sublime-build",
+	"build_system_choices":
+	[
+		[
+			[
+				[
+					"Packages/C++/C++ Single File.sublime-build",
+					""
+				],
+				[
+					"Packages/C++/C++ Single File.sublime-build",
+					"Run"
+				]
+			],
+			[
+				"Packages/C++/C++ Single File.sublime-build",
+				"Run"
+			]
+		]
+	],
+	"build_varint": "Run",
+	"command_palette":
+	{
+		"height": 392.0,
+		"last_filter": "in",
+		"selected_items":
+		[
+			[
+				"in",
+				"Package Control: Install Package"
+			],
+			[
+				"install",
+				"Package Control: Install Package"
+			]
+		],
+		"width": 449.0
+	},
+	"console":
+	{
+		"height": 139.0,
+		"history":
+		[
+			"import urllib.request,os,hashlib; h = 'eb2297e1a458f27d836c04bb0cbaf282' + 'd0e7a3098092775ccb37ca9d6b2e4b7d'; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); by = urllib.request.urlopen( 'http://packagecontrol.io/' + pf.replace(' ', '%20')).read(); dh = hashlib.sha256(by).hexdigest(); print('Error validating download (got %s instead of %s), please try manual install' % (dh, h)) if dh != h else open(os.path.join( ipp, pf), 'wb' ).write(by)"
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"expanded_folders":
+	[
+		"/home/neil/projects/algorithms",
+		"/home/neil/projects/algorithms/linear_search",
+		"/home/neil/projects/algorithms/sample"
+	],
+	"file_history":
+	[
+		"/home/neil/.config/sublime-text-3/Packages/User/js.sublime-build",
+		"/home/neil/projects/algorithms/lecture 1/linear.c",
+		"/home/neil/projects/algorithms/sample/sample.c",
+		"/home/neil/projects/algorithms/sample/sample.swift",
+		"/home/neil/projects/algorithms/sample/sample.js",
+		"/home/neil/projects/mewe-material/assets/modules/admin/quick-nav/QuickNav.e2e.test.js",
+		"/home/neil/projects/mewe-material/assets/modules/admin/models/category.js",
+		"/home/neil/projects/mewe-material/assets/modules/admin/properties/property-categories.js",
+		"/home/neil/projects/mewe-material/assets/modules/admin/app.js",
+		"/home/neil/projects/mewe-material/assets/modules/admin/properties/property-categories.jade",
+		"/home/neil/projects/mewe-material/assets/modules/admin/app.scss",
+		"/home/neil/projects/mewe-material/assets/modules/admin/properties/properties.scss",
+		"/home/neil/projects/mewe-material/api/controllers/category/destroy.coffee",
+		"/home/neil/projects/mewe-material/assets/modules/admin/quick-nav/QuickNav.unit.test.js",
+		"/home/neil/projects/mewe-material/assets/modules/core_styles/_directives.scss",
+		"/home/neil/projects/mewe-material/assets/modules/admin/properties/property_categories.js",
+		"/home/neil/projects/mewe-material/assets/modules/admin/properties/PropertiesCtrl.js",
+		"/home/neil/projects/mewe-material/assets/modules/core_styles/_color.scss",
+		"/home/neil/projects/mewe-material/assets/modules/admin/navigation/Navigation.e2e.test.js",
+		"/home/neil/projects/mewe-material/assets/modules/admin/quick-nav/QuickNav.js",
+		"/home/neil/projects/mewe-material/assets/modules/admin/assignments/assignments.js",
+		"/home/neil/projects/mewe-material/assets/modules/admin/quick-nav/QuickNav.jade",
+		"/home/neil/projects/mewe-material/assets/modules/admin/account/AccountCtrl.js",
+		"/home/neil/projects/mewe-material/views/admin.jade",
+		"/home/neil/projects/mewe-material/assets/modules/admin/quick-nav/QuickNav.scss",
+		"/home/neil/projects/mewe-material/assets/modules/admin/users/Users.js",
+		"/home/neil/projects/mewe-material/assets/modules/admin/checklists/ChecklistsCtrl.js",
+		"/home/neil/projects/mewe-material/assets/modules/admin/settings/Settings.js",
+		"/home/neil/projects/mewe-material/assets/modules/admin/dashboard/DashboardCtrl.js",
+		"/home/neil/projects/mewe-material/assets/modules/public/Login.e2e.test.js",
+		"/home/neil/projects/mewe-material/assets/modules/admin/quick-nav/QuickNav.service.js",
+		"/home/neil/projects/mewe-material/views/public.jade",
+		"/home/neil/projects/mewe-material/README.md",
+		"/home/neil/projects/mewe-material/e2e.test",
+		"/home/neil/projects/mewe-material/assets/public.karma.js",
+		"/home/neil/projects/mewe-material/unit.test",
+		"/home/neil/projects/mewe-material/.tmp/public/modules/admin/quick-nav/QuickNav.service.js",
+		"/home/neil/projects/mewe-material/assets/admin.karma.js",
+		"/home/neil/projects/mewe-material/assets/modules/admin/account/account.jade",
+		"/home/neil/projects/mewe-material/views/500.jade",
+		"/home/neil/projects/mewe-material/assets/modules/public/LoginCtrl.unit.test.js",
+		"/home/neil/projects/mewe-material/assets/admin.e2e.js",
+		"/home/neil/projects/mewe-material/assets/modules/admin/settings/settings.jade",
+		"/home/neil/projects/mewe-material/assets/modules/admin/assignments/Assignments.js",
+		"/home/neil/projects/mewe-material/assets/modules/admin/assignments/assignments.jade",
+		"/home/neil/projects/mewe-material/assets/modules/admin/settings/SettingsCtrl.js",
+		"/home/neil/projects/mewe-material/assets/modules/admin/users/users.jade",
+		"/home/neil/projects/mewe-material/assets/modules/admin/checklists/checklists.jade",
+		"/home/neil/projects/mewe-material/assets/modules/admin/properties/properties.jade",
+		"/home/neil/projects/mewe-material/assets/modules/admin/dashboard/dashboard.jade",
+		"/home/neil/projects/mewe-material/tasks/config/concat.js",
+		"/home/neil/projects/mewe-material/assets/modules/admin/dashboard/dashboard.scss",
+		"/home/neil/projects/mewe-material/e2e",
+		"/home/neil/projects/mewe-material/tasks/config/sails-linker.js",
+		"/home/neil/projects/mewe-material/tasks/register/linkAssets.js",
+		"/home/neil/projects/mewe-material/assets/modules/admin/navigation/NavigationCtrl.js",
+		"/home/neil/projects/mewe-material/assets/public.e2e.js",
+		"/home/neil/projects/mewe-material/assets/modules/admin/navigation/NavigationCtrl.unit.test.js",
+		"/home/neil/projects/mewe-material/assets/modules/public/app.scss",
+		"/home/neil/projects/mewe-material/assets/modules/agent/app.scss",
+		"/home/neil/projects/mewe-material/assets/modules/report/report.scss",
+		"/home/neil/projects/mewe-material/assets/modules/core_styles/_form.scss",
+		"/home/neil/projects/mewe-material/tasks/config/cssmin.js",
+		"/home/neil/projects/mewe-material/tasks/config/uglify.js",
+		"/home/neil/projects/mewe-material/tasks/register/build.js",
+		"/home/neil/projects/mewe-material/assets/modules/core_styles/_inspection.scss",
+		"/home/neil/projects/mewe-material/.tmp/public/concat/agent.scss",
+		"/home/neil/projects/mewe-material/assets/modules/core_styles/_mixins.scss",
+		"/home/neil/projects/mewe-material/assets/modules/core_styles/_ng-animate.scss",
+		"/home/neil/projects/mewe-material/package.json",
+		"/home/neil/projects/mewe-material/assets/modules/agent/main/main.scss",
+		"/home/neil/projects/mewe-material/assets/modules/core_styles/_all.scss",
+		"/home/neil/projects/mewe-material/assets/modules/report/print.css",
+		"/home/neil/projects/mewe-material/tasks/pipeline.js",
+		"/home/neil/projects/mewe-material/.tmp/public/styles/public.css",
+		"/home/neil/projects/mewe-material/.tmp/public/concat/public.scss",
+		"/home/neil/projects/mewe-material/tasks/config/watch.js",
+		"/home/neil/projects/mewe-material/assets/modules/core_styles/_icons.scss",
+		"/home/neil/projects/mewe-material/assets/modules/public/LoginCtrl.js",
+		"/home/neil/projects/mewe-material/tasks/register/prod.js",
+		"/home/neil/projects/mewe-material/tasks/register/default.js",
+		"/home/neil/projects/mewe-material/assets/modules/public/public.scss",
+		"/home/neil/projects/mewe-material/api/controllers/auth/authenticate.coffee",
+		"/home/neil/projects/mewe-material/tasks/config/copy.js",
+		"/home/neil/projects/mewe-material/tasks/config/scss.js",
+		"/home/neil/projects/mewe-material/tasks/register/compileAssets.js",
+		"/home/neil/projects/mewe-material/.tmp/public/concat/admin.scss",
+		"/home/neil/projects/mewe-material/tasks/config/clean.js",
+		"/home/neil/projects/mewe-material/api/services/View.coffee",
+		"/home/neil/projects/mewe-material/views/client.jade",
+		"/home/neil/projects/mewe-material/assets/protractor.conf.js",
+		"/home/neil/projects/mewe-material/protractor.conf.js",
+		"/home/neil/projects/mewe-material/tasks/config/sync.js",
+		"/home/neil/projects/mewe-material/.tmp/public/js/public/Login.e2e.test.js",
+		"/home/neil/projects/mewe-material/node_modules/sails/node_modules/sails-generate/node_modules/sails-generate-frontend/templates/tasks/register/syncAssets.js",
+		"/home/neil/projects/mewe-material/node_modules/sails/node_modules/sails-generate/node_modules/sails-generate-frontend/templates/tasks/register/compileAssets.js",
+		"/home/neil/projects/mewe-material/tasks/register/syncAssets.js",
+		"/home/neil/projects/mewe-material/.tmp/public/js/public/LoginCtrl.js",
+		"/home/neil/projects/mewe-material/tasks/config/bower.js",
+		"/home/neil/projects/mewe-material/api/services/updateKeys.coffee",
+		"/home/neil/projects/mewe-material/tasks/config/jade.js",
+		"/home/neil/projects/mewe-material/docker/DEVELOP",
+		"/home/neil/projects/mewe-material/docker/DEPLOY",
+		"/home/neil/projects/mewe-material/config/routes.js",
+		"/home/neil/projects/mewe-material/assets/modules/public/app.js",
+		"/home/neil/projects/mewe-material/assets/modules/public/main.ctrl.js",
+		"/home/neil/projects/mewe-material/karma.conf.js",
+		"/home/neil/projects/mewe-material/assets/karma.public.js",
+		"/home/neil/projects/mewe-material/bower.json",
+		"/home/neil/projects/mewe-material/config/connections.js",
+		"/home/neil/projects/mewe-material/.gitignore",
+		"/home/neil/projects/mewe-material/test-ui/e2e.test.ts",
+		"/home/neil/projects/mewe-material/test-ui/e2e.test.js",
+		"/home/neil/projects/mewe-material/api/services/UserData.coffee",
+		"/home/neil/projects/angular-ts/gulpfile.js",
+		"/home/neil/projects/angular-ts/.bowerrc",
+		"/home/neil/projects/angular-ts/protractor.conf.js",
+		"/home/neil/projects/angular-ts/models/Vote.js",
+		"/home/neil/projects/angular-ts/tsd.json",
+		"/home/neil/projects/tdd/test/server.spec.js",
+		"/home/neil/projects/tdd/server.js",
+		"/home/neil/projects/tdd/package.json",
+		"/home/neil/projects/tdd/bower.json",
+		"/home/neil/projects/mewe-material/Dockerfile",
+		"/home/neil/projects/mewe/assets/modules/client/assignment/assignment.jade",
+		"/home/neil/projects/mewe/assets/modules/report/PRESET_ANSWER.coffee",
+		"/home/neil/projects/mewe/assets/modules/report/app.coffee",
+		"/home/neil/projects/mewe/assets/modules/agent/inspection/CriteriaFormDir.coffee"
+	],
+	"find":
+	{
+		"height": 26.0
+	},
+	"find_in_files":
+	{
+		"height": 93.0,
+		"where_history":
+		[
+			""
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"&quot;",
+			"$scope.",
+			"@",
+			"import",
+			"client",
+			"coffee:dev",
+			"MainCtrl",
+			"[\n",
+			"plugins",
+			"protractor",
+			"answerExist",
+			"getAnswer",
+			"console.log",
+			"done",
+			"CGX",
+			"groupFinished",
+			"$s.action.answered",
+			"answered",
+			"$s.pas",
+			"resultGroupIndexes",
+			"getRes",
+			"groupIndexes",
+			"$s.answer",
+			"getResultIndexes",
+			"$s.answer",
+			"answer",
+			"selectAnswer",
+			"$s.answer",
+			"      =",
+			".result.answers",
+			"CRITERIA.result",
+			"chkcategoryId",
+			"getResultIndexes",
+			"getResultItem",
+			"getResultIndexes",
+			"cgIndex",
+			"$s.answer",
+			"hex",
+			"null",
+			"Building",
+			"criterias",
+			"csv",
+			"steps",
+			"saveOption",
+			"if test",
+			"presetAnswers",
+			"object",
+			"update",
+			"c.",
+			"CHK_CATEGORY",
+			"newrelic",
+			"test",
+			"jshint",
+			"bs",
+			"User",
+			"relic",
+			"new",
+			"sails.lift",
+			"$s.checklist",
+			"setDate",
+			"filterType",
+			"passport",
+			"password",
+			"criterias",
+			"sass",
+			"dirname",
+			"id",
+			"INS.",
+			".status",
+			"15px",
+			"image-list",
+			"requireAll",
+			"'\n",
+			"unique",
+			"$s.checklist",
+			"$s.save",
+			"restructure",
+			"category",
+			"COPY inspection",
+			"inspection",
+			"all",
+			".panel-shadow",
+			".panel-",
+			"host",
+			"bs",
+			"client",
+			"answers",
+			"map",
+			"pin",
+			"jeet",
+			"});",
+			"}\n"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+			"\"",
+			"$s.",
+			"criteria.",
+			""
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"selected": 2,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "linear_search/sample.c",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 841,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								675,
+								675
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/C++/C++.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 2,
+					"type": "text"
+				},
+				{
+					"buffer": 1,
+					"file": "linear_search/sample.js",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 384,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								384,
+								384
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/JavaScript/JavaScript.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 1,
+					"type": "text"
+				},
+				{
+					"buffer": 2,
+					"file": "linear_search/sample.swift",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 24,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								24,
+								24
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Swift/Syntaxes/Swift.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 0,
+					"type": "text"
+				},
+				{
+					"buffer": 3,
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 124,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"auto_name": "",
+							"default_dir": "/home/neil/projects/algorithms",
+							"syntax": "Packages/Text/Plain text.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 3,
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 26.0
+	},
+	"input":
+	{
+		"height": 33.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.doc":
+	{
+		"height": 0.0
+	},
+	"output.exec":
+	{
+		"height": 118.0
+	},
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "Packages/C++/C++ Single File.sublime-build",
+	"project": "algorithms.sublime-project",
+	"replace":
+	{
+		"height": 64.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 117.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"",
+				"search"
+			]
+		],
+		"width": 392.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 370.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
