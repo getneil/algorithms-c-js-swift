@@ -3,8 +3,8 @@ var a = [15, 23, 24, 32, 7],
 
 var search = function(searchArray,searchValue){
 	var index = -1;
-	for(var i = 0; i < a.length; i++){
-		if(a[i] == searchValue){
+	for(var i = 0; i < searchArray.length; i++){
+		if(searchArray[i] == searchValue){
 			index = i;
 			break;
 		}
