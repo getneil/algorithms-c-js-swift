@@ -100,7 +100,7 @@ void populateArray(int array[], int size, bool sorted)
 
 int main()
 {
-	int sizeOfArray = 100;
+	int sizeOfArray = 70000;
 	int a[sizeOfArray]; //make sure to declare sizeOfArray before the array
 	int b[sizeOfArray];
 
@@ -108,7 +108,7 @@ int main()
 	
 	int linearCost = 0;
 	int binaryCost = 0;
-	
+
 	populateArray(a,sizeOfArray,true);
 
 	int size = (sizeof(a)/sizeof(a[0])); //get size of a array by dividing its size by element's size
